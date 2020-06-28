@@ -44,7 +44,7 @@
     "kapsule": "^1.13.3",
     "three": "^0.117.1",
     "three-globe": "^2.7.2",
-    "three-render-objects": "github:NorthMcCormick/three-render-objects"
+    "three-render-objects": "github:NorthMcCormick/three-render-objects#d48adec8d20b2a915eb761a1477ccd090dc78580"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
